@@ -1,0 +1,276 @@
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csprojAssemblyReference.cache
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ButtonStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\CheckBoxStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ComboBoxStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\DataGridStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ProgressBarStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\RadiobuttonStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\Styles.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\TextBoxStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\WrapPanelStyle.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddBottomBarView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsDivisionView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsMainView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\GeometryView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\SectionAreaView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\SettingView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\SpecialBarView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\StirrupsView.baml
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddBottomBarView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddTopBarView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsDivisionView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsMainView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\BeamsWindow.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\GeometryView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\SectionAreaView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\SettingView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\SpecialBarView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\View\StirrupsView.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.cache
+D:\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.lref
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\R02_BeamsRebar.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\R02_BeamsRebar.pdb
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAPIUI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\System.Windows.Interactivity.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\AdWindows.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAddInUtility.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\APIInterop.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\UIFramework.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\AddInManager.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitUIAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\BuildingSystemsUIAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\DesktopMFCAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\APIUIAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitMFCAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\EssentialsUIAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\DetailUIAPI.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\UIFrameworkServices.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ManagedMC3.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Autodesk.UI.Themes.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Autodesk.UI.Windows.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAPIUI.xml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAddInUtility.xml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\de-DE\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\en-GB\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\en-US\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\es-ES\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\it-IT\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csprojAssemblyReference.cache
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ButtonStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\CheckBoxStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ComboBoxStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\DataGridStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ProgressBarStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\RadiobuttonStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\Styles.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\TextBoxStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\WrapPanelStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddBottomBarView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsDivisionView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsMainView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\GeometryView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SectionAreaView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SettingView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SpecialBarView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\StirrupsView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddBottomBarView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddTopBarView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsDivisionView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsMainView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BeamsWindow.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\GeometryView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SectionAreaView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SettingView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SpecialBarView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\StirrupsView.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.cache
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.lref
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\TreeViewStyle.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddTopBarView.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BeamsWindow.baml
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.g.resources
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csproj.CoreCompileInputs.cache
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csproj.CopyComplete
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.dll
+D:\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.pdb
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\R02_BeamsRebar.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\R02_BeamsRebar.pdb
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAPIUI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\System.Windows.Interactivity.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\AdWindows.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAddInUtility.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\APIInterop.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\UIFramework.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\AddInManager.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitUIAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\BuildingSystemsUIAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\DesktopMFCAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\APIUIAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitMFCAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\EssentialsUIAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\DetailUIAPI.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\UIFrameworkServices.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ManagedMC3.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Autodesk.UI.Themes.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Autodesk.UI.Windows.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAPIUI.xml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\RevitAddInUtility.xml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\de-DE\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\en-GB\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\en-US\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\es-ES\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\it-IT\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csprojAssemblyReference.cache
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ButtonStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\CheckBoxStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ComboBoxStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\DataGridStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\ProgressBarStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\RadiobuttonStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\Styles.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\TextBoxStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\TreeViewStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Resource\WrapPanelStyle.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddBottomBarView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsDivisionView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsMainView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\GeometryView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SectionAreaView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SettingView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SpecialBarView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\StirrupsView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddBottomBarView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddTopBarView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsDivisionView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BarsMainView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BeamsWindow.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\GeometryView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SectionAreaView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SettingView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\SpecialBarView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\StirrupsView.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.cache
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.lref
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\AddTopBarView.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\View\BeamsWindow.baml
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.g.resources
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csproj.CoreCompileInputs.cache
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csproj.CopyComplete
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.dll
+D:\02. Study\01. Lap trinh\01. Add - In\beamrebar\1\RebarAddin\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.pdb
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\R02_BeamsRebar.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\R02_BeamsRebar.pdb
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitAPIUI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\System.Windows.Interactivity.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\AdpSDKCSharpWrapper.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\AdWindows.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitAddInUtility.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\APIInterop.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\UIFramework.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\AddInManager.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitUIAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\BuildingSystemsUIAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\DesktopMFCAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\APIUIAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitMFCAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\EssentialsUIAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\DetailUIAPI.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\UIFrameworkServices.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\ManagedMC3.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Autodesk.UI.Themes.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Autodesk.UI.Windows.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitAPIUI.xml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitAddInUtility.xml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\de-DE\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\en-GB\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\en-US\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\es-ES\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\it-IT\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csprojAssemblyReference.cache
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\ButtonStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\CheckBoxStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\ComboBoxStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\DataGridStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\ProgressBarStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\RadiobuttonStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\Styles.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\TextBoxStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\TreeViewStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Resource\WrapPanelStyle.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\GeometryView.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\SectionAreaView.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\SettingView.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\Library\Error\ErrorBeamsWindow.g.cs
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\BeamsWindow.g.cs
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\GeometryView.g.cs
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\SectionAreaView.g.cs
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\SettingView.g.cs
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.cache
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar_MarkupCompile.lref
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\View\BeamsWindow.baml
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.g.resources
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csproj.CoreCompileInputs.cache
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.csproj.CopyComplete
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\obj\Debug\R02_BeamsRebar.pdb
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\06. Revit API - Tool\03. Section\R02_BeamsRebar\bin\Debug\RevitAPI.dll
